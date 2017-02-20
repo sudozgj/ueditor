@@ -1,0 +1,9 @@
+package org.test;
+
+import org.util.ChangeTime;
+
+public class test2 {
+	public static void main(String[] args) {
+		System.out.println(ChangeTime.currentDate());
+	}
+}
